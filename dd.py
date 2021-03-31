@@ -1,5 +1,4 @@
 import os
-import shutil
 
 imgs_dir = './4000scan'
 des_dir = './split'
